@@ -1,0 +1,588 @@
+.bgaliceblue{background-color:aliceblue}
+.aliceblue{color:aliceblue}
+.alicebluebpan1{border:1px aliceblue solid}
+.alicebluebpan2{border:2px aliceblue solid}
+.bgantiquewhite{background-color:antiquewhite}
+.antiquewhite{color:antiquewhite}
+.antiquewhitebpan1{border:1px antiquewhite solid}
+.antiquewhitebpan2{border:2px antiquewhite solid}
+.bgaqua{background-color:aqua}
+.aqua{color:aqua}
+.aquabpan1{border:1px aqua solid}
+.aquabpan2{border:2px aqua solid}
+.bgaquamarine{background-color:aquamarine}
+.aquamarine{color:aquamarine}
+.aquamarinebpan1{border:1px aquamarine solid}
+.aquamarinebpan2{border:2px aquamarine solid}
+.bgazure{background-color:azure}
+.azure{color:azure}
+.azurebpan1{border:1px azure solid}
+.azurebpan2{border:2px azure solid}
+.bgbeige{background-color:beige}
+.beige{color:beige}
+.beigebpan1{border:1px beige solid}
+.beigebpan2{border:2px beige solid}
+.bgbisque{background-color:bisque}
+.bisque{color:bisque}
+.bisquebpan1{border:1px bisque solid}
+.bisquebpan2{border:2px bisque solid}
+.bgblack{background-color:black}
+.black{color:black}
+.blackbpan1{border:1px black solid}
+.blackbpan2{border:2px black solid}
+.bgblanchedalmond{background-color:blanchedalmond}
+.blanchedalmond{color:blanchedalmond}
+.blanchedalmondbpan1{border:1px blanchedalmond solid}
+.blanchedalmondbpan2{border:2px blanchedalmond solid}
+.bgblue{background-color:blue}
+.blue{color:blue}
+.bluebpan1{border:1px blue solid}
+.bluebpan2{border:2px blue solid}
+.bgblueviolet{background-color:blueviolet}
+.blueviolet{color:blueviolet}
+.bluevioletbpan1{border:1px blueviolet solid}
+.bluevioletbpan2{border:2px blueviolet solid}
+.bgbrown{background-color:brown}
+.brown{color:brown}
+.brownbpan1{border:1px brown solid}
+.brownbpan2{border:2px brown solid}
+.bgburlywood{background-color:burlywood}
+.burlywood{color:burlywood}
+.burlywoodbpan1{border:1px burlywood solid}
+.burlywoodbpan2{border:2px burlywood solid}
+.bgcadetblue{background-color:cadetblue}
+.cadetblue{color:cadetblue}
+.cadetbluebpan1{border:1px cadetblue solid}
+.cadetbluebpan2{border:2px cadetblue solid}
+.bgchartreuse{background-color:chartreuse}
+.chartreuse{color:chartreuse}
+.chartreusebpan1{border:1px chartreuse solid}
+.chartreusebpan2{border:2px chartreuse solid}
+.bgchocolate{background-color:chocolate}
+.chocolate{color:chocolate}
+.chocolatebpan1{border:1px chocolate solid}
+.chocolatebpan2{border:2px chocolate solid}
+.bgcoral{background-color:coral}
+.coral{color:coral}
+.coralbpan1{border:1px coral solid}
+.coralbpan2{border:2px coral solid}
+.bgcornflowerblue{background-color:cornflowerblue}
+.cornflowerblue{color:cornflowerblue}
+.cornflowerbluebpan1{border:1px cornflowerblue solid}
+.cornflowerbluebpan2{border:2px cornflowerblue solid}
+.bgcornsilk{background-color:cornsilk}
+.cornsilk{color:cornsilk}
+.cornsilkbpan1{border:1px cornsilk solid}
+.cornsilkbpan2{border:2px cornsilk solid}
+.bgcrimson{background-color:crimson}
+.crimson{color:crimson}
+.crimsonbpan1{border:1px crimson solid}
+.crimsonbpan2{border:2px crimson solid}
+.bgcyan{background-color:cyan}
+.cyan{color:cyan}
+.cyanbpan1{border:1px cyan solid}
+.cyanbpan2{border:2px cyan solid}
+.bgdarkblue{background-color:darkblue}
+.darkblue{color:darkblue}
+.darkbluebpan1{border:1px darkblue solid}
+.darkbluebpan2{border:2px darkblue solid}
+.bgdarkcyan{background-color:darkcyan}
+.darkcyan{color:darkcyan}
+.darkcyanbpan1{border:1px darkcyan solid}
+.darkcyanbpan2{border:2px darkcyan solid}
+.bgdarkgoldenrod{background-color:darkgoldenrod}
+.darkgoldenrod{color:darkgoldenrod}
+.darkgoldenrodbpan1{border:1px darkgoldenrod solid}
+.darkgoldenrodbpan2{border:2px darkgoldenrod solid}
+.bgdarkgray{background-color:darkgray}
+.darkgray{color:darkgray}
+.darkgraybpan1{border:1px darkgray solid}
+.darkgraybpan2{border:2px darkgray solid}
+.bgdarkgreen{background-color:darkgreen}
+.darkgreen{color:darkgreen}
+.darkgreenbpan1{border:1px darkgreen solid}
+.darkgreenbpan2{border:2px darkgreen solid}
+.bgdarkkhaki{background-color:darkkhaki}
+.darkkhaki{color:darkkhaki}
+.darkkhakibpan1{border:1px darkkhaki solid}
+.darkkhakibpan2{border:2px darkkhaki solid}
+.bgdarkmagenta{background-color:darkmagenta}
+.darkmagenta{color:darkmagenta}
+.darkmagentabpan1{border:1px darkmagenta solid}
+.darkmagentabpan2{border:2px darkmagenta solid}
+.bgdarkolivegreen{background-color:darkolivegreen}
+.darkolivegreen{color:darkolivegreen}
+.darkolivegreenbpan1{border:1px darkolivegreen solid}
+.darkolivegreenbpan2{border:2px darkolivegreen solid}
+.bgdarkorange{background-color:darkorange}
+.darkorange{color:darkorange}
+.darkorangebpan1{border:1px darkorange solid}
+.darkorangebpan2{border:2px darkorange solid}
+.bgdarkorchid{background-color:darkorchid}
+.darkorchid{color:darkorchid}
+.darkorchidbpan1{border:1px darkorchid solid}
+.darkorchidbpan2{border:2px darkorchid solid}
+.bgdarkred{background-color:darkred}
+.darkred{color:darkred}
+.darkredbpan1{border:1px darkred solid}
+.darkredbpan2{border:2px darkred solid}
+.bgdarksalmon{background-color:darksalmon}
+.darksalmon{color:darksalmon}
+.darksalmonbpan1{border:1px darksalmon solid}
+.darksalmonbpan2{border:2px darksalmon solid}
+.bgdarkseagreen{background-color:darkseagreen}
+.darkseagreen{color:darkseagreen}
+.darkseagreenbpan1{border:1px darkseagreen solid}
+.darkseagreenbpan2{border:2px darkseagreen solid}
+.bgdarkslateblue{background-color:darkslateblue}
+.darkslateblue{color:darkslateblue}
+.darkslatebluebpan1{border:1px darkslateblue solid}
+.darkslatebluebpan2{border:2px darkslateblue solid}
+.bgdarkslategray{background-color:darkslategray}
+.darkslategray{color:darkslategray}
+.darkslategraybpan1{border:1px darkslategray solid}
+.darkslategraybpan2{border:2px darkslategray solid}
+.bgdarkturquoise{background-color:darkturquoise}
+.darkturquoise{color:darkturquoise}
+.darkturquoisebpan1{border:1px darkturquoise solid}
+.darkturquoisebpan2{border:2px darkturquoise solid}
+.bgdarkviolet{background-color:darkviolet}
+.darkviolet{color:darkviolet}
+.darkvioletbpan1{border:1px darkviolet solid}
+.darkvioletbpan2{border:2px darkviolet solid}
+.bgdeeppink{background-color:deeppink}
+.deeppink{color:deeppink}
+.deeppinkbpan1{border:1px deeppink solid}
+.deeppinkbpan2{border:2px deeppink solid}
+.bgdeepskyblue{background-color:deepskyblue}
+.deepskyblue{color:deepskyblue}
+.deepskybluebpan1{border:1px deepskyblue solid}
+.deepskybluebpan2{border:2px deepskyblue solid}
+.bgdimgray{background-color:dimgray}
+.dimgray{color:dimgray}
+.dimgraybpan1{border:1px dimgray solid}
+.dimgraybpan2{border:2px dimgray solid}
+.bgdodgerblue{background-color:dodgerblue}
+.dodgerblue{color:dodgerblue}
+.dodgerbluebpan1{border:1px dodgerblue solid}
+.dodgerbluebpan2{border:2px dodgerblue solid}
+.bgfirebrick{background-color:firebrick}
+.firebrick{color:firebrick}
+.firebrickbpan1{border:1px firebrick solid}
+.firebrickbpan2{border:2px firebrick solid}
+.bgfloralwhite{background-color:floralwhite}
+.floralwhite{color:floralwhite}
+.floralwhitebpan1{border:1px floralwhite solid}
+.floralwhitebpan2{border:2px floralwhite solid}
+.bgforestgreen{background-color:forestgreen}
+.forestgreen{color:forestgreen}
+.forestgreenbpan1{border:1px forestgreen solid}
+.forestgreenbpan2{border:2px forestgreen solid}
+.bgfuchsia{background-color:fuchsia}
+.fuchsia{color:fuchsia}
+.fuchsiabpan1{border:1px fuchsia solid}
+.fuchsiabpan2{border:2px fuchsia solid}
+.bggainsboro{background-color:gainsboro}
+.gainsboro{color:gainsboro}
+.gainsborobpan1{border:1px gainsboro solid}
+.gainsborobpan2{border:2px gainsboro solid}
+.bgghostwhite{background-color:ghostwhite}
+.ghostwhite{color:ghostwhite}
+.ghostwhitebpan1{border:1px ghostwhite solid}
+.ghostwhitebpan2{border:2px ghostwhite solid}
+.bggold{background-color:gold}
+.gold{color:gold}
+.goldbpan1{border:1px gold solid}
+.goldbpan2{border:2px gold solid}
+.bggoldenrod{background-color:goldenrod}
+.goldenrod{color:goldenrod}
+.goldenrodbpan1{border:1px goldenrod solid}
+.goldenrodbpan2{border:2px goldenrod solid}
+.bggray{background-color:gray}
+.gray{color:gray}
+.graybpan1{border:1px gray solid}
+.graybpan2{border:2px gray solid}
+.bggreen{background-color:green}
+.green{color:green}
+.greenbpan1{border:1px green solid}
+.greenbpan2{border:2px green solid}
+.bggreenyellow{background-color:greenyellow}
+.greenyellow{color:greenyellow}
+.greenyellowbpan1{border:1px greenyellow solid}
+.greenyellowbpan2{border:2px greenyellow solid}
+.bghoneydew{background-color:honeydew}
+.honeydew{color:honeydew}
+.honeydewbpan1{border:1px honeydew solid}
+.honeydewbpan2{border:2px honeydew solid}
+.bghotpink{background-color:hotpink}
+.hotpink{color:hotpink}
+.hotpinkbpan1{border:1px hotpink solid}
+.hotpinkbpan2{border:2px hotpink solid}
+.bgindianred{background-color:indianred}
+.indianred{color:indianred}
+.indianredbpan1{border:1px indianred solid}
+.indianredbpan2{border:2px indianred solid}
+.bgindigo{background-color:indigo}
+.indigo{color:indigo}
+.indigobpan1{border:1px indigo solid}
+.indigobpan2{border:2px indigo solid}
+.bgivory{background-color:ivory}
+.ivory{color:ivory}
+.ivorybpan1{border:1px ivory solid}
+.ivorybpan2{border:2px ivory solid}
+.bgkhaki{background-color:khaki}
+.khaki{color:khaki}
+.khakibpan1{border:1px khaki solid}
+.khakibpan2{border:2px khaki solid}
+.bglavender{background-color:lavender}
+.lavender{color:lavender}
+.lavenderbpan1{border:1px lavender solid}
+.lavenderbpan2{border:2px lavender solid}
+.bglavenderblush{background-color:lavenderblush}
+.lavenderblush{color:lavenderblush}
+.lavenderblushbpan1{border:1px lavenderblush solid}
+.lavenderblushbpan2{border:2px lavenderblush solid}
+.bglawngreen{background-color:lawngreen}
+.lawngreen{color:lawngreen}
+.lawngreenbpan1{border:1px lawngreen solid}
+.lawngreenbpan2{border:2px lawngreen solid}
+.bglemonchiffon{background-color:lemonchiffon}
+.lemonchiffon{color:lemonchiffon}
+.lemonchiffonbpan1{border:1px lemonchiffon solid}
+.lemonchiffonbpan2{border:2px lemonchiffon solid}
+.bglightblue{background-color:lightblue}
+.lightblue{color:lightblue}
+.lightbluebpan1{border:1px lightblue solid}
+.lightbluebpan2{border:2px lightblue solid}
+.bglightcoral{background-color:lightcoral}
+.lightcoral{color:lightcoral}
+.lightcoralbpan1{border:1px lightcoral solid}
+.lightcoralbpan2{border:2px lightcoral solid}
+.bglightcyan{background-color:lightcyan}
+.lightcyan{color:lightcyan}
+.lightcyanbpan1{border:1px lightcyan solid}
+.lightcyanbpan2{border:2px lightcyan solid}
+.bglightgoldenrodyellow{background-color:lightgoldenrodyellow}
+.lightgoldenrodyellow{color:lightgoldenrodyellow}
+.lightgoldenrodyellowbpan1{border:1px lightgoldenrodyellow solid}
+.lightgoldenrodyellowbpan2{border:2px lightgoldenrodyellow solid}
+.bglightgray{background-color:lightgray}
+.lightgray{color:lightgray}
+.lightgraybpan1{border:1px lightgray solid}
+.lightgraybpan2{border:2px lightgray solid}
+.bglightgreen{background-color:lightgreen}
+.lightgreen{color:lightgreen}
+.lightgreenbpan1{border:1px lightgreen solid}
+.lightgreenbpan2{border:2px lightgreen solid}
+.bglightpink{background-color:lightpink}
+.lightpink{color:lightpink}
+.lightpinkbpan1{border:1px lightpink solid}
+.lightpinkbpan2{border:2px lightpink solid}
+.bglightsalmon{background-color:lightsalmon}
+.lightsalmon{color:lightsalmon}
+.lightsalmonbpan1{border:1px lightsalmon solid}
+.lightsalmonbpan2{border:2px lightsalmon solid}
+.bglightseagreen{background-color:lightseagreen}
+.lightseagreen{color:lightseagreen}
+.lightseagreenbpan1{border:1px lightseagreen solid}
+.lightseagreenbpan2{border:2px lightseagreen solid}
+.bglightskyblue{background-color:lightskyblue}
+.lightskyblue{color:lightskyblue}
+.lightskybluebpan1{border:1px lightskyblue solid}
+.lightskybluebpan2{border:2px lightskyblue solid}
+.bglightslategray{background-color:lightslategray}
+.lightslategray{color:lightslategray}
+.lightslategraybpan1{border:1px lightslategray solid}
+.lightslategraybpan2{border:2px lightslategray solid}
+.bglightsteelblue{background-color:lightsteelblue}
+.lightsteelblue{color:lightsteelblue}
+.lightsteelbluebpan1{border:1px lightsteelblue solid}
+.lightsteelbluebpan2{border:2px lightsteelblue solid}
+.bglightyellow{background-color:lightyellow}
+.lightyellow{color:lightyellow}
+.lightyellowbpan1{border:1px lightyellow solid}
+.lightyellowbpan2{border:2px lightyellow solid}
+.bglime{background-color:lime}
+.lime{color:lime}
+.limebpan1{border:1px lime solid}
+.limebpan2{border:2px lime solid}
+.bglimegreen{background-color:limegreen}
+.limegreen{color:limegreen}
+.limegreenbpan1{border:1px limegreen solid}
+.limegreenbpan2{border:2px limegreen solid}
+.bglinen{background-color:linen}
+.linen{color:linen}
+.linenbpan1{border:1px linen solid}
+.linenbpan2{border:2px linen solid}
+.bgmagenta{background-color:magenta}
+.magenta{color:magenta}
+.magentabpan1{border:1px magenta solid}
+.magentabpan2{border:2px magenta solid}
+.bgmaroon{background-color:maroon}
+.maroon{color:maroon}
+.maroonbpan1{border:1px maroon solid}
+.maroonbpan2{border:2px maroon solid}
+.bgmediumaquamarine{background-color:mediumaquamarine}
+.mediumaquamarine{color:mediumaquamarine}
+.mediumaquamarinebpan1{border:1px mediumaquamarine solid}
+.mediumaquamarinebpan2{border:2px mediumaquamarine solid}
+.bgmediumblue{background-color:mediumblue}
+.mediumblue{color:mediumblue}
+.mediumbluebpan1{border:1px mediumblue solid}
+.mediumbluebpan2{border:2px mediumblue solid}
+.bgmediumorchid{background-color:mediumorchid}
+.mediumorchid{color:mediumorchid}
+.mediumorchidbpan1{border:1px mediumorchid solid}
+.mediumorchidbpan2{border:2px mediumorchid solid}
+.bgmediumpurple{background-color:mediumpurple}
+.mediumpurple{color:mediumpurple}
+.mediumpurplebpan1{border:1px mediumpurple solid}
+.mediumpurplebpan2{border:2px mediumpurple solid}
+.bgmediumseagreen{background-color:mediumseagreen}
+.mediumseagreen{color:mediumseagreen}
+.mediumseagreenbpan1{border:1px mediumseagreen solid}
+.mediumseagreenbpan2{border:2px mediumseagreen solid}
+.bgmediumslateblue{background-color:mediumslateblue}
+.mediumslateblue{color:mediumslateblue}
+.mediumslatebluebpan1{border:1px mediumslateblue solid}
+.mediumslatebluebpan2{border:2px mediumslateblue solid}
+.bgmediumspringgreen{background-color:mediumspringgreen}
+.mediumspringgreen{color:mediumspringgreen}
+.mediumspringgreenbpan1{border:1px mediumspringgreen solid}
+.mediumspringgreenbpan2{border:2px mediumspringgreen solid}
+.bgmediumturquoise{background-color:mediumturquoise}
+.mediumturquoise{color:mediumturquoise}
+.mediumturquoisebpan1{border:1px mediumturquoise solid}
+.mediumturquoisebpan2{border:2px mediumturquoise solid}
+.bgmediumvioletred{background-color:mediumvioletred}
+.mediumvioletred{color:mediumvioletred}
+.mediumvioletredbpan1{border:1px mediumvioletred solid}
+.mediumvioletredbpan2{border:2px mediumvioletred solid}
+.bgmidnightblue{background-color:midnightblue}
+.midnightblue{color:midnightblue}
+.midnightbluebpan1{border:1px midnightblue solid}
+.midnightbluebpan2{border:2px midnightblue solid}
+.bgmintcream{background-color:mintcream}
+.mintcream{color:mintcream}
+.mintcreambpan1{border:1px mintcream solid}
+.mintcreambpan2{border:2px mintcream solid}
+.bgmistyrose{background-color:mistyrose}
+.mistyrose{color:mistyrose}
+.mistyrosebpan1{border:1px mistyrose solid}
+.mistyrosebpan2{border:2px mistyrose solid}
+.bgmoccasin{background-color:moccasin}
+.moccasin{color:moccasin}
+.moccasinbpan1{border:1px moccasin solid}
+.moccasinbpan2{border:2px moccasin solid}
+.bgnavajowhite{background-color:navajowhite}
+.navajowhite{color:navajowhite}
+.navajowhitebpan1{border:1px navajowhite solid}
+.navajowhitebpan2{border:2px navajowhite solid}
+.bgnavy{background-color:navy}
+.navy{color:navy}
+.navybpan1{border:1px navy solid}
+.navybpan2{border:2px navy solid}
+.bgoldlace{background-color:oldlace}
+.oldlace{color:oldlace}
+.oldlacebpan1{border:1px oldlace solid}
+.oldlacebpan2{border:2px oldlace solid}
+.bgolive{background-color:olive}
+.olive{color:olive}
+.olivebpan1{border:1px olive solid}
+.olivebpan2{border:2px olive solid}
+.bgolivedrab{background-color:olivedrab}
+.olivedrab{color:olivedrab}
+.olivedrabbpan1{border:1px olivedrab solid}
+.olivedrabbpan2{border:2px olivedrab solid}
+.bgorange{background-color:orange}
+.orange{color:orange}
+.orangebpan1{border:1px orange solid}
+.orangebpan2{border:2px orange solid}
+.bgorangered{background-color:orangered}
+.orangered{color:orangered}
+.orangeredbpan1{border:1px orangered solid}
+.orangeredbpan2{border:2px orangered solid}
+.bgorchid{background-color:orchid}
+.orchid{color:orchid}
+.orchidbpan1{border:1px orchid solid}
+.orchidbpan2{border:2px orchid solid}
+.bgpalegoldenrod{background-color:palegoldenrod}
+.palegoldenrod{color:palegoldenrod}
+.palegoldenrodbpan1{border:1px palegoldenrod solid}
+.palegoldenrodbpan2{border:2px palegoldenrod solid}
+.bgpalegreen{background-color:palegreen}
+.palegreen{color:palegreen}
+.palegreenbpan1{border:1px palegreen solid}
+.palegreenbpan2{border:2px palegreen solid}
+.bgpaleturquoise{background-color:paleturquoise}
+.paleturquoise{color:paleturquoise}
+.paleturquoisebpan1{border:1px paleturquoise solid}
+.paleturquoisebpan2{border:2px paleturquoise solid}
+.bgpalevioletred{background-color:palevioletred}
+.palevioletred{color:palevioletred}
+.palevioletredbpan1{border:1px palevioletred solid}
+.palevioletredbpan2{border:2px palevioletred solid}
+.bgpapayawhip{background-color:papayawhip}
+.papayawhip{color:papayawhip}
+.papayawhipbpan1{border:1px papayawhip solid}
+.papayawhipbpan2{border:2px papayawhip solid}
+.bgpeachpuff{background-color:peachpuff}
+.peachpuff{color:peachpuff}
+.peachpuffbpan1{border:1px peachpuff solid}
+.peachpuffbpan2{border:2px peachpuff solid}
+.bgperu{background-color:peru}
+.peru{color:peru}
+.perubpan1{border:1px peru solid}
+.perubpan2{border:2px peru solid}
+.bgpink{background-color:pink}
+.pink{color:pink}
+.pinkbpan1{border:1px pink solid}
+.pinkbpan2{border:2px pink solid}
+.bgplum{background-color:plum}
+.plum{color:plum}
+.plumbpan1{border:1px plum solid}
+.plumbpan2{border:2px plum solid}
+.bgpowderblue{background-color:powderblue}
+.powderblue{color:powderblue}
+.powderbluebpan1{border:1px powderblue solid}
+.powderbluebpan2{border:2px powderblue solid}
+.bgpurple{background-color:purple}
+.purple{color:purple}
+.purplebpan1{border:1px purple solid}
+.purplebpan2{border:2px purple solid}
+.bgred{background-color:red}
+.red{color:red}
+.redbpan1{border:1px red solid}
+.redbpan2{border:2px red solid}
+.bgrosybrown{background-color:rosybrown}
+.rosybrown{color:rosybrown}
+.rosybrownbpan1{border:1px rosybrown solid}
+.rosybrownbpan2{border:2px rosybrown solid}
+.bgroyalblue{background-color:royalblue}
+.royalblue{color:royalblue}
+.royalbluebpan1{border:1px royalblue solid}
+.royalbluebpan2{border:2px royalblue solid}
+.bgsaddlebrown{background-color:saddlebrown}
+.saddlebrown{color:saddlebrown}
+.saddlebrownbpan1{border:1px saddlebrown solid}
+.saddlebrownbpan2{border:2px saddlebrown solid}
+.bgsalmon{background-color:salmon}
+.salmon{color:salmon}
+.salmonbpan1{border:1px salmon solid}
+.salmonbpan2{border:2px salmon solid}
+.bgsandybrown{background-color:sandybrown}
+.sandybrown{color:sandybrown}
+.sandybrownbpan1{border:1px sandybrown solid}
+.sandybrownbpan2{border:2px sandybrown solid}
+.bgseagreen{background-color:seagreen}
+.seagreen{color:seagreen}
+.seagreenbpan1{border:1px seagreen solid}
+.seagreenbpan2{border:2px seagreen solid}
+.bgseashell{background-color:seashell}
+.seashell{color:seashell}
+.seashellbpan1{border:1px seashell solid}
+.seashellbpan2{border:2px seashell solid}
+.bgsienna{background-color:sienna}
+.sienna{color:sienna}
+.siennabpan1{border:1px sienna solid}
+.siennabpan2{border:2px sienna solid}
+.bgsilver{background-color:silver}
+.silver{color:silver}
+.silverbpan1{border:1px silver solid}
+.silverbpan2{border:2px silver solid}
+.bgskyblue{background-color:skyblue}
+.skyblue{color:skyblue}
+.skybluebpan1{border:1px skyblue solid}
+.skybluebpan2{border:2px skyblue solid}
+.bgslateblue{background-color:slateblue}
+.slateblue{color:slateblue}
+.slatebluebpan1{border:1px slateblue solid}
+.slatebluebpan2{border:2px slateblue solid}
+.bgslategray{background-color:slategray}
+.slategray{color:slategray}
+.slategraybpan1{border:1px slategray solid}
+.slategraybpan2{border:2px slategray solid}
+.bgsnow{background-color:snow}
+.snow{color:snow}
+.snowbpan1{border:1px snow solid}
+.snowbpan2{border:2px snow solid}
+.bgspringgreen{background-color:springgreen}
+.springgreen{color:springgreen}
+.springgreenbpan1{border:1px springgreen solid}
+.springgreenbpan2{border:2px springgreen solid}
+.bgsteelblue{background-color:steelblue}
+.steelblue{color:steelblue}
+.steelbluebpan1{border:1px steelblue solid}
+.steelbluebpan2{border:2px steelblue solid}
+.bgtan{background-color:tan}
+.tan{color:tan}
+.tanbpan1{border:1px tan solid}
+.tanbpan2{border:2px tan solid}
+.bgteal{background-color:teal}
+.teal{color:teal}
+.tealbpan1{border:1px teal solid}
+.tealbpan2{border:2px teal solid}
+.bgthistle{background-color:thistle}
+.thistle{color:thistle}
+.thistlebpan1{border:1px thistle solid}
+.thistlebpan2{border:2px thistle solid}
+.bgtomato{background-color:tomato}
+.tomato{color:tomato}
+.tomatobpan1{border:1px tomato solid}
+.tomatobpan2{border:2px tomato solid}
+.bgturquoise{background-color:turquoise}
+.turquoise{color:turquoise}
+.turquoisebpan1{border:1px turquoise solid}
+.turquoisebpan2{border:2px turquoise solid}
+.bgviolet{background-color:violet}
+.violet{color:violet}
+.violetbpan1{border:1px violet solid}
+.violetbpan2{border:2px violet solid}
+.bgwheat{background-color:wheat}
+.wheat{color:wheat}
+.wheatbpan1{border:1px wheat solid}
+.wheatbpan2{border:2px wheat solid}
+.bgwhite{background-color:white}
+.white{color:white}
+.whitebpan1{border:1px white solid}
+.whitebpan2{border:2px white solid}
+.bgwhitesmoke{background-color:whitesmoke}
+.whitesmoke{color:whitesmoke}
+.whitesmokebpan1{border:1px whitesmoke solid}
+.whitesmokebpan2{border:2px whitesmoke solid}
+.bgyellow{background-color:yellow}
+.yellow{color:yellow}
+.yellowbpan1{border:1px yellow solid}
+.yellowbpan2{border:2px yellow solid}
+.bgyellowgreen{background-color:yellowgreen}
+.yellowgreen{color:yellowgreen}
+.yellowgreenbpan1{border:1px yellowgreen solid}
+.yellowgreenbpan2{border:2px yellowgreen solid}
+.vpan1{height:1em}
+.mpan1{margin:1em}
+.ppan1{padding:1em}
+.bpan1{border:1px #ddd solid}
+.rpan1{-webkit-border-radius:10px;border-radius:10px}
+.bpan1-left{border-left:1px #ddd solid}
+.bpan1-right{border-right:1px #ddd solid}
+.bpan1-top{border-top:1px #ddd solid}
+.bpan1-bottom{border-bottom:1px #ddd solid}
+.vpan2{height:2em}
+.mpan2{margin:2em}
+.ppan2{padding:2em}
+.bpan2{border:2px #ddd solid}
+.rpan2{-webkit-border-radius:20px;border-radius:20px}
+.bpan2-left{border-left:2px #ddd solid}
+.bpan2-right{border-right:2px #ddd solid}
+.bpan2-top{border-top:2px #ddd solid}
+.bpan2-bottom{border-bottom:2px #ddd solid}
+.mpan{margin:0 1em}
+.ellipsis{white-space:nowrap;overflow:hidden;-o-text-overflow:ellipsis;text-overflow:ellipsis}
+.column-count{-webkit-column-count:3;-moz-column-count:3;column-count:3}
+.top-right{position:fixed;top:0;right:0}
+.top-left{position:fixed;top:0;left:0}
+.bottom-right{position:fixed;bottom:0;right:0}
+.bottom-left{position:fixed;bottom:0;left:0}
+.bgtransparent{background:transparent}
+.b{font-weight:bold}
+.hover:hover{background-color:#f5f5f5}
